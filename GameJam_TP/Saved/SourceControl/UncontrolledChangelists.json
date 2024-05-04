@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nathan.nunes/Documents/GameJam/GameJam_TP/Content/Character/BP_Character.uasset",
+				"C:/Users/nathan.nunes/Documents/GameJam/GameJam_TP/Content/Blueprints/W_Crosshair.uasset",
 				"C:/Users/maiwan.oreac/Documents/Unreal Projects/GameJam/GameJam_TP/Content/Level/Level_1.umap",
 				"C:/Users/maiwan.oreac/Documents/Unreal Projects/GameJam/GameJam_TP/Content/Materials/M_Red.uasset",
 				"C:/Users/maiwan.oreac/Documents/Unreal Projects/GameJam/GameJam_TP/Content/Materials/M_Blue.uasset",
