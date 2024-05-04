@@ -4,3 +4,6 @@ DerivedDataCache/*
 DerivedDataCache\*
 Saved/*
 Saved\*
+/Intermediate
+/DerivedDataCache
+/Saved
